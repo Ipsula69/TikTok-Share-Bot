@@ -33,5 +33,5 @@ I am not responsible for any damage of any kind for using this script
 
 ## Help
 ```
-Discord: Herra Seini#4444
+Discord: Herra stackfl#0821
 ```
